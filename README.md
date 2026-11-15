@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-extrusion.svg)](https://deepseekbase.com/plugins/dsh-extrusion/)
 <p align="center"><strong>dsh-extrusion — 挤出工艺参数</strong></p>
 
 按材料给挤出温度区间与缺陷对策。
